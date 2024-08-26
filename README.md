@@ -1,2 +1,2 @@
-# CODSOFT2
-Calculator using HTML,CSS and Javascript
+# CODSOFT3
+Calculator
